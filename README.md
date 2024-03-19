@@ -95,7 +95,7 @@ This will create a thread that Synchronizes the folders every x seconds while le
 
 After the program is running you will be presented with this console menu:
 
-<img src="img/console_menu.jpg" alt="Logo" width="350" height="100">
+<img src="img/console_menu.JPG" alt="Logo" width="350" height="100">
 
     1. This option will simply show every thread running.
     2. This option will allow the user to provide arguments to create a new Synchronization thread.
