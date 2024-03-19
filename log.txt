@@ -1,0 +1,9 @@
+2024-03-19 19:24:53.872572: Log File Created
+2024-03-19 19:24:53.873951: Created Folder ./devcopy
+2024-03-19 19:24:53.876943: Created folder ./devcopy\examplefldr
+2024-03-19 19:24:53.878938: copied ./dev\example.txt to ./devcopy\example.txt
+2024-03-19 19:24:53.879936: copied ./dev\example.txt to ./devcopy\example.txt
+2024-03-19 19:24:53.880934: Created folder ./devcopy\examplefldr\nestedfolder
+2024-03-19 19:24:53.881931: copied ./dev\examplefldr\folderex.txt to ./devcopy\examplefldr\folderex.txt
+2024-03-19 19:24:53.884924: copied ./dev\examplefldr\nestedfolder\nestedfolderex.txt to ./devcopy\examplefldr\nestedfolder\nestedfolderex.txt
+2024-03-19 19:24:53.884924: copied ./dev\examplefldr\nestedfolder\nestedfolderex.txt to ./devcopy\examplefldr\nestedfolder\nestedfolderex.txt
